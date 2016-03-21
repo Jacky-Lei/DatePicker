@@ -1,0 +1,22 @@
+.selected {
+  color: red;
+  font-weight: bold;
+}
+
+.other-month {
+  color: grey;
+}
+
+.month-header {
+  text-align: center;
+  width: 230px;
+  margin-top: 10px;
+}
+
+.move-left {
+  float: left;
+}
+
+.move-right {
+  float: right;
+}
